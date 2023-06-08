@@ -1,0 +1,32 @@
+{
+    "project_info": {
+        "project_number": "1087990448950",
+        "firebase_url": "https://track-6aeb6-default-rtdb.asia-southeast1.firebasedatabase.app",
+        "project_id": "track-6aeb6",
+        "storage_bucket": "track-6aeb6.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:1087990448950:android:ea4d7b5c21ff72da102997",
+            "android_client_info": {
+                "package_name": "com.ewarn.track"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "1087990448950-5inu3vbheoif4jbbhubuqibmhcl9ff72.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyBWVYTAVD-nz1jjfjbZv-D_FNao_wKHgSA"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "1087990448950-5inu3vbheoif4jbbhubuqibmhcl9ff72.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
